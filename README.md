@@ -1,4 +1,7 @@
-# Memos 软件工程大作业
+<<<<<<< HEAD
+# product-analysis
+
+软件工程大作业 · Memos 项目分析
 
 研究对象：**usememos/memos v0.31.0**（本地部署）
 课程：软件工程　|　小组：第 X 组　|　仓库用途：过程记录与交付依据
@@ -49,3 +52,7 @@
 1. 一人一分支（`mnt-0x-姓名`），不直接推 `main`；
 2. 一条提案对一个 Issue，一个 PR 只改一件事；
 3. 提交前脱敏：内网 IP、Token、账号口令替换为 `<HOST>` `<TOKEN>` `<ACCOUNT>`。
+=======
+# product-analysis
+软件工程大作业 - Memos 项目分析
+>>>>>>> origin/main
