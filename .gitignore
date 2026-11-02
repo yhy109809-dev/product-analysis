@@ -1,0 +1,6 @@
+Thumbs.db
+.DS_Store
+*.log
+backup/
+*.db-wal
+*.db-shm
